@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 ## Overview of the project
 
-![1721025178197](image/README/1721025178197.png)
+![1721025480719](image/README/1721025480719.png)
